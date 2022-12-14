@@ -29,4 +29,4 @@ _No programming experience_
 
 ## English
 
-*A1*
+_A1_
